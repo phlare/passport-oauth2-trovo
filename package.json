@@ -1,32 +1,27 @@
 {
-  "name": "passport-oauth2",
-  "version": "1.6.1",
-  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "name": "passport-oauth2-trovo",
+  "version": "0.0.1",
+  "description": "Trovo authentication strategy for Passport.",
   "keywords": [
     "passport",
     "auth",
-    "authn",
     "authentication",
-    "authz",
     "authorization",
     "oauth",
-    "oauth2"
+    "oauth2",
+    "trovo"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Phlare",
+    "email": "phlarebot@gmail.com",
+    "url": "http://trovo.live/phlaretv/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
+    "url": "git://github.com/phlare/passport-oauth2-trovo"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth2/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "http://github.com/phlare/passport-oauth2-trovo/issues"
   },
   "license": "MIT",
   "licenses": [
